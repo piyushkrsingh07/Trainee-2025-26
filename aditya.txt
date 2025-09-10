@@ -1,0 +1,5 @@
+name= Aditya Singh
+student no=2413059
+DAY scholar
+Domain=Machine Learning 
+email_address=aditya2413059@akgec.ac.in
