@@ -1,0 +1,3 @@
+Name = Harshita Sharma
+Student number = 24153006
+Domain = Machine learning
