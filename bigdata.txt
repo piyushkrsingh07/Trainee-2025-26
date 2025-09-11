@@ -1,0 +1,75 @@
+Big data primarily refers to data sets that are too large or complex to be dealt with by traditional data-processing software. Data with many entries (rows) offer greater statistical power, while data with higher complexity (more attributes or columns) may lead to a higher false discovery rate.
+
+Big data analysis challenges include capturing data, data storage, data analysis, search, sharing, transfer, visualization, querying, updating, information privacy, and data source. Big data was originally associated with three key concepts: volume, variety, and velocity.[2] The analysis of big data presents challenges in sampling, and thus previously allowing for only observations and sampling. Thus a fourth concept, veracity, refers to the quality or insightfulness of the data.[3] Without sufficient investment in expertise for big data veracity, the volume and variety of data can produce costs and risks that exceed an organization's capacity to create and capture value from big data
+
+Current usage of the term big data tends to refer to the use of predictive analytics, user behavior analytics, or certain other advanced data analytics methods that extract value from big data, and seldom to a particular size of data set. "There is little doubt that the quantities of data now available are indeed large, but that's not the most relevant characteristic of this new data ecosystem."[5] Analysis of data sets can find new correlations to "spot business trends, prevent diseases, combat crime and so on".[6] Scientists, business executives, medical practitioners, advertising and governments alike regularly meet difficulties with large data-sets in areas including Internet searches, fintech, healthcare analytics, geographic information systems, urban informatics, and business informatics. Scientists encounter limitations in e-Science work, including meteorology, genomics,[7] connectomics, complex physics simulations, biology, and environmental research.[8]
+
+Is Big Data still in demand?
+The U.S. Bureau of Labor Statistics (BLS) anticipates data-related occupations will grow by more than 31% by 2030, creating a plethora of new jobs in the same time period. Increasingly, top companies are in need of qualified professionals to fill those emerging roles. However, professionals with these specialized skills are difficult to find, meaning data jobs pay quite well for those with the right expertise.
+
+Salaries for Big Data careers are increasing just as quickly as the demand for skilled professionals. Many of these jobs report compensation well into the six-figure range and above market value in order to compete in the talent war.
+
+
+1. Big Data engineer
+Median salary: $151,300
+
+Big Data engineers are similar to data analysts in that they turn large volumes of data into insights that organizations can use to make smarter business decisions. However, they’re also tasked with retrieving, interpreting, analyzing, and reporting on a business’s data, which they typically have to gather from a variety of different sources.
+
+These professionals are also often responsible for creating and maintaining the company’s software and hardware architecture, including the systems and processes users need to work with that data.
+
+2. Data architect
+Median salary: $137,000
+
+These professionals design the structure of complex data frameworks and build and maintain these databases. Data architects develop strategies for each subject area of the enterprise data model and communicate plans, status, and issues to their company’s executives.
+
+3. Data modeler
+Median salary: $130,800
+
+These professionals turn large volumes of data into insights, such as micro and macro trends, which are gathered into business reports. Data modelers must be skilled in both information science and statistical analysis, and they should have proficient programming skills.
+
+Data modelers often specialize in a particular business area, making it easier to find useful data trends for their employers.
+
+4. Data scientist
+Median salary: $122,100
+
+Data scientists design and construct new processes for modeling, data mining, and production. In addition to conducting data studies and product experiments, these professionals are tasked with developing prototypes, algorithms, predictive models, and custom analyses.
+
+Previous work experience in a similar position is usually required,  and data scientists should be skilled in different data mining techniques, such as clustering, regression analysis, and decision trees.
+
+5. Database developer
+Median salary: $109,300
+
+Database developers are responsible for analyzing current database processes in order to modernize, streamline, or eliminate inefficient coding. These professionals are often charged with monitoring database performance, developing new databases, and troubleshooting issues as they arise.
+
+Database developers work closely with other members of the development team. They’re often required to have prior experience with database development, data analysis, and unit testing.
+
+6. Database manager
+Median salary: $106,400
+
+Database managers identify problems that occur in databases, take corrective action to remedy those issues, and assist with the design and physical implementation of storage hardware and maintenance. They are also responsible for storing and analyzing their organization’s data.
+
+These professionals work closely with database developers and often provide guidance and training to lower-level staff.
+
+7. Database administrator
+Median salary: $105,300
+
+These professionals are responsible for monitoring and optimizing database performance to avoid damaging effects caused by constant access and high traffic. They also coordinate with IT security professionals to ensure data security. Database administrators typically have prior experience working on database administration teams.
+
+8. Data security analyst
+Median salary: $97,500
+
+Data security analysts perform security audits, risk assessments, and analyses to help make recommendations for enhancing data systems security. They often research attempted breaches of data security and formulate security policies and procedures to rectify security weaknesses.
+
+9. Business intelligence analyst
+Median salary: $97,500
+
+Business intelligence analysts turn companies’ data into insights that executives can use to make better business decisions. These professionals often respond to management’s requests for specific information but might also scrutinize data independently to find patterns and trends.
+
+Business intelligence analysts should have a strong background in analytical and reporting tools, several years of experience with database queries and stored procedure writing, as well as online analytical processing (OLAP) and data cube technology skills.
+
+10. Data analyst
+Median salary: $92,900
+
+Data analysts work with large volumes of data, turning them into insights businesses can leverage to make better decisions. They work across a variety of industries—from healthcare and finance to retail and technology.
+
+Data analysts work to improve their own systems to make relaying future insights easier. The goal is to develop methods to analyze large datasets that can be easily reproduced and scaled.
